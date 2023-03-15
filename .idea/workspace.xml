@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1947fda-bba1-4ccb-a545-727b8483af4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Bill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bill.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAPORT1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RAPORT1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAPORT2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RAPORT2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAPORT3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RAPORT3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAPORT4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RAPORT4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuSer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/menuSer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordersSer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ordersSer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/AddUpdate.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/AddUpdate.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/AddUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/AddUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Administrator.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Administrator.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Client.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Client.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/CreateMenu.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/CreateMenu.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/CreateMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/CreateMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/LogIn.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/LogIn.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Reports.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Reports.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Reports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Reports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userSer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/userSer.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28NC8sB4dWS7oGte6srNxSpT8CJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="117" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="252" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Proiect_Personalitate" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Assigment_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1947fda-bba1-4ccb-a545-727b8483af4c" name="Changes" comment="" />
+      <created>1651047505652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651047505652</updated>
+      <workItem from="1651047506861" duration="4688000" />
+      <workItem from="1651345322598" duration="5692000" />
+      <workItem from="1651469516140" duration="2315000" />
+      <workItem from="1651775149324" duration="30467000" />
+      <workItem from="1651920731046" duration="13346000" />
+      <workItem from="1651940841890" duration="867000" />
+      <workItem from="1651992277214" duration="21643000" />
+      <workItem from="1652018356747" duration="10490000" />
+      <workItem from="1652034889138" duration="6400000" />
+      <workItem from="1652072885677" duration="894000" />
+      <workItem from="1652076989781" duration="618000" />
+      <workItem from="1652440317159" duration="610000" />
+      <workItem from="1652553186404" duration="1289000" />
+      <workItem from="1653115405429" duration="17000" />
+      <workItem from="1653118330461" duration="219000" />
+      <workItem from="1655272333757" duration="2349000" />
+      <workItem from="1665313509556" duration="549000" />
+      <workItem from="1666243646282" duration="108000" />
+      <workItem from="1668950301198" duration="21000" />
+      <workItem from="1672398490368" duration="1650000" />
+      <workItem from="1672406083954" duration="3105000" />
+      <workItem from="1672649310704" duration="608000" />
+      <workItem from="1672787127698" duration="260000" />
+      <workItem from="1672787717659" duration="952000" />
+      <workItem from="1677266146259" duration="5908000" />
+      <workItem from="1677272281777" duration="2860000" />
+      <workItem from="1678195198242" duration="50000" />
+      <workItem from="1678195301994" duration="27000" />
+      <workItem from="1678566519380" duration="816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

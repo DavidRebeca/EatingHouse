@@ -1,0 +1,12 @@
+RAPORT 3 
+Clientii care au comandat de mai mult de 1 ori si valoarea comenziilor mai mare de 1
+stefi
+elena
+elena
+elena
+tania
+elena
+elena
+tania
+elena
+tania
